@@ -2,7 +2,7 @@
 
 ## 💼 QA Automation Engineer
 
-🔹 2+ years experience in Manual & Automation Testing  
+🔹 5+ years experience in Manual & Automation Testing  
 🔹 Skilled in Selenium, Java, TestNG, API Testing  
 🔹 Strong knowledge of SDLC & STLC  
 
